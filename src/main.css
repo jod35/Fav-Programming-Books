@@ -1,0 +1,22 @@
+nav{
+    padding: 15px;
+    background-color: dodgerblue;
+    color: white;
+;
+
+}
+.cotainer{
+    margin-top: 200px;
+}
+.book{
+    display: flex;
+}
+.book-image{
+    width: 300px;
+    background-color: dodgerblue;
+    color: white;
+    padding: 20px;
+}
+.book-info{
+    padding: 20px;
+}
